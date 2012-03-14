@@ -11,3 +11,39 @@
  *= require_self
  *= require_tree .
 */
+
+header {
+  background-color: #EEDDFC;
+  padding: 10px;
+}
+
+#container {
+  width: 90%;
+  height: 90%;
+}
+
+#title {
+    color: #548BB7;
+    font-family: Arial;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 15px 5px 0;
+}
+
+#nav_menu {
+  background-color: #fffcde;
+  padding: 20px 0;
+  float: left;
+  height: 380px;
+  width: 250px;
+}
+
+#main {
+  float: left;
+  display: block;
+  padding: 0 20px;
+}
+
+footer {
+  clear: both;
+}
