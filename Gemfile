@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+# this comment makes vim use color syntax
 gem 'rails', '3.2.2'
 gem 'haml-rails'
 
